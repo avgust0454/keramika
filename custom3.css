@@ -20,7 +20,7 @@
     /* body,,div*/
 }
 .y {
- color: rgb(11, 168, 236);
+ color: #rgb(11, 168, 236);
  font-weight: bold;
  font-style: italic;
  text-decoration: dashed;
@@ -29,7 +29,7 @@
  
 }
 .r {
-    color: rgb(3, 66, 94);
+    color: #rgb(3, 66, 94);
     font-weight: bold; 
     font-style: italic;
     /* h2 class. немного о глине*/  
@@ -43,13 +43,13 @@
     /* h1 class вверху*/
 }
 img {
-    border-color: rgb(83, 55, 109);
+    border-color: #rgb(83, 55, 109);
     border-radius: 3px;
     border-style: double;
 }
 .containers {
      text-align: left;
-     color:rgb(84, 4, 159);
+     color: #rgb(84, 4, 159);
      font-family: "Courier New";
      /*div class как BODY*/
 }
